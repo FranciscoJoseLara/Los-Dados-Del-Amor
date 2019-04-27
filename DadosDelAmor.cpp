@@ -1,3 +1,5 @@
+//Código desarrollado por Francisco José Lara
+
 #include <iostream>
 #include <cstdlib>
 #include <string.h>
