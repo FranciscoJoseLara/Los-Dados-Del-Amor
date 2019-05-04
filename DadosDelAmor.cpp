@@ -71,31 +71,31 @@ int main ()
 void DadoAccion(TDadoAccion& da)
 {
     da[0]="BESAR";
-    da[1]="LAMER";
+    da[1]="MASAJEAR";
     da[2]="ACARICIAR";
     da[3]="MORDER";
-    da[4]="ESTRUJAR";
+    da[4]="SUSURRAR";
     da[5]="SOPLAR";
 }
 
 void DadoZonaChica(TDadoZona& dz)
 {
-    dz[0]="MUSLOS";
-    dz[1]="PECHOS";
+    dz[0]="PIERNAS";
+    dz[1]="ESPALDA";
     dz[2]="LABIOS";
-    dz[3]="CULO";
+    dz[3]="CINTURA";
     dz[4]="CUELLO";
-    dz[5]="CHOCHO";
+    dz[5]="OIDO";
 }
 
 void DadoZonaChico(TDadoZona& dz)
 {
-    dz[0]="MUSLOS";
+    dz[0]="PIERNAS";
     dz[1]="PECHO";
     dz[2]="LABIOS";
-    dz[3]="CULO";
+    dz[3]="ESPALDA";
     dz[4]="CUELLO";
-    dz[5]="PENE";
+    dz[5]="MANOS";
 }
 
 void Tirada(unsigned num, unsigned& nda, unsigned& ndz)
