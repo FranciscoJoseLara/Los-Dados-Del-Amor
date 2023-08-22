@@ -11,8 +11,15 @@
 <body>
     <h1>Test of GitHub Pages</h1>
     <h3>Serverless</h3>
-    <button class="stdbtn">Click Here</button>
+    <button class="stdbtn" onclick="cambio()">Click Here</button>
 
 </body>
+
+<script>
+    function cambio(){
+        const cuerpo = document.querySelector("body");
+        cuerpo.style.backgroundImage = "url('')";
+    }
+</script>
 
 </html>
