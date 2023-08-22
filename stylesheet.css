@@ -2,7 +2,7 @@ body{
     background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
     background-color: cadetblue;
     text-align: center;
-    color: aliceblue;
+    color: aliceblue !important;
 }
 
 h3{
